@@ -16,38 +16,38 @@ function Newtods() {
     <h4>New To Disney+</h4>
     <Content  {...settings}>
        <Wrap>
-            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9700/1289700-v-606bd48d21ab"/>
+            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9700/1289700-v-606bd48d21ab" alt=''/>
             
         </Wrap>
         <Wrap>
-            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3135/1293135-v-1c73bceda2cd"/>
+            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3135/1293135-v-1c73bceda2cd" alt=''/>
         </Wrap>
         <Wrap>
-            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9533/1289533-v-5aeb53904d21"/>
+            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9533/1289533-v-5aeb53904d21" alt=''/>
         </Wrap>
         <Wrap>
-            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9568/1289568-v-54d3b892ac8c"/>
+            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9568/1289568-v-54d3b892ac8c" alt=''/>
         </Wrap>
         <Wrap>
-            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2353/1282353-v-ba90d44ce003"/>
+            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2353/1282353-v-ba90d44ce003" alt=''/>
         </Wrap>
         <Wrap>
-            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6765/1286765-v-52ece6230aa3"/>
+            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6765/1286765-v-52ece6230aa3" alt=''/>
         </Wrap>
         <Wrap>
-            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2350/1282350-v-15ffecf89380"/>
+            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2350/1282350-v-15ffecf89380" alt=''/>
         </Wrap>
         <Wrap>
-            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2347/1282347-v-57b71e72275e"/>
+            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2347/1282347-v-57b71e72275e" alt=''/>
         </Wrap>
         <Wrap>
-            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2849/1282849-v-e78761bbcf08"/>
+            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2849/1282849-v-e78761bbcf08" alt=''/>
         </Wrap>
         <Wrap>
-            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1745/1281745-v-6ee7ff4440f2"/>
+            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1745/1281745-v-6ee7ff4440f2" alt=''/>
         </Wrap>
         <Wrap>
-            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9063/1279063-v-4ebb6d8f0c48"/>
+            <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9063/1279063-v-4ebb6d8f0c48" alt=''/>
         </Wrap> 
     </Content>
     </Container>
