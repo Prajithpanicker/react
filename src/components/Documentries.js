@@ -13,7 +13,7 @@ function Documentries() {
   return (
      
     <Container >
-    <h4>New To Disney+</h4>
+    <h4>Documentaries</h4>
     <Content  {...settings}>
        <Wrap>
             <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9885/1269885-v-38506a4291ec" alt=''/>
