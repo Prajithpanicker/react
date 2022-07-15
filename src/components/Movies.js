@@ -81,7 +81,7 @@ const Wrap=styled.div`
 overflow:hidden;
 transition-duration:0.2s;
 cursor:pointer;
-transition-delay: 0.5s;
+transition-delay: 0.04s;
 border:none;
 
 h1{
