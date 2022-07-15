@@ -7,16 +7,16 @@ function Details() {
             <img src="https://wallpapercave.com/wp/wp4503476.jpg" alt='' />
         </Background>
         <Imagetitle>
-            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/846a9086-8a40-43e0-aa10-2fc7d6d73730/ddcgeqp-295da996-f10c-4419-b0f8-1f3c64b1d6ab.png/v1/fill/w_800,h_375,strp/doctor_strange_in_the_multiverse_of_madness_png_by_mintmovi3_ddcgeqp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzc1IiwicGF0aCI6IlwvZlwvODQ2YTkwODYtOGE0MC00M2UwLWFhMTAtMmZjN2Q2ZDczNzMwXC9kZGNnZXFwLTI5NWRhOTk2LWYxMGMtNDQxOS1iMGY4LTFmM2M2NGIxZDZhYi5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.KC-md65NLPPyhr7wOGE8ibz0VA3NCURE7sCD1HbJXss"/>
+            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/846a9086-8a40-43e0-aa10-2fc7d6d73730/ddcgeqp-295da996-f10c-4419-b0f8-1f3c64b1d6ab.png/v1/fill/w_800,h_375,strp/doctor_strange_in_the_multiverse_of_madness_png_by_mintmovi3_ddcgeqp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzc1IiwicGF0aCI6IlwvZlwvODQ2YTkwODYtOGE0MC00M2UwLWFhMTAtMmZjN2Q2ZDczNzMwXC9kZGNnZXFwLTI5NWRhOTk2LWYxMGMtNDQxOS1iMGY4LTFmM2M2NGIxZDZhYi5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.KC-md65NLPPyhr7wOGE8ibz0VA3NCURE7sCD1HbJXss"  alt=''/>
         </Imagetitle>
 
         <Controls>
             <Playbutton>
-                <img src="/images/play-icon-black.png"/>
+                <img src="/images/play-icon-black.png"  alt=''/>
                 <span>PLAY</span>
             </Playbutton>
             <Trailer>
-            <img src="/images/play-icon-white.png"/>
+            <img src="/images/play-icon-white.png"  alt=''/>
             <span>TRAILER</span>
 
             </Trailer>
@@ -25,7 +25,7 @@ function Details() {
             </Addbutton>
 
             <Groupwatchbutton>
-                <img src="/images/group-icon.png"/>
+                <img src="/images/group-icon.png"  alt=''/>
             </Groupwatchbutton>
         </Controls>
 
