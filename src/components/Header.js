@@ -68,6 +68,8 @@ a{
     align-items:center;
      padding:0 12px;
      cursor:pointer;
+      text-decoration:none;
+     color:white;
 
     img{
         height:20px;
