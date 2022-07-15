@@ -74,6 +74,9 @@ width:60%;
 .slick-prev:before, .slick-next:before{
     display:none;
 }
+@media (max-width: 768px) {
+    width:165%;
+}
 
 `
 const Wrap=styled.div`
