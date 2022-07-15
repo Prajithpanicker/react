@@ -4,19 +4,19 @@ function Details() {
   return (
     <Container>
         <Background>
-            <img src="https://wallpapercave.com/wp/wp4503476.jpg"  alt=''/>
+            <img src="https://wallpapercave.com/wp/wp4503476.jpg" alt='' />
         </Background>
         <Imagetitle>
-            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/846a9086-8a40-43e0-aa10-2fc7d6d73730/ddcgeqp-295da996-f10c-4419-b0f8-1f3c64b1d6ab.png/v1/fill/w_800,h_375,strp/doctor_strange_in_the_multiverse_of_madness_png_by_mintmovi3_ddcgeqp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzc1IiwicGF0aCI6IlwvZlwvODQ2YTkwODYtOGE0MC00M2UwLWFhMTAtMmZjN2Q2ZDczNzMwXC9kZGNnZXFwLTI5NWRhOTk2LWYxMGMtNDQxOS1iMGY4LTFmM2M2NGIxZDZhYi5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.KC-md65NLPPyhr7wOGE8ibz0VA3NCURE7sCD1HbJXss" alt=''/>
+            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/846a9086-8a40-43e0-aa10-2fc7d6d73730/ddcgeqp-295da996-f10c-4419-b0f8-1f3c64b1d6ab.png/v1/fill/w_800,h_375,strp/doctor_strange_in_the_multiverse_of_madness_png_by_mintmovi3_ddcgeqp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzc1IiwicGF0aCI6IlwvZlwvODQ2YTkwODYtOGE0MC00M2UwLWFhMTAtMmZjN2Q2ZDczNzMwXC9kZGNnZXFwLTI5NWRhOTk2LWYxMGMtNDQxOS1iMGY4LTFmM2M2NGIxZDZhYi5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.KC-md65NLPPyhr7wOGE8ibz0VA3NCURE7sCD1HbJXss"/>
         </Imagetitle>
 
         <Controls>
             <Playbutton>
-                <img src="/images/play-icon-black.png" alt=''/>
+                <img src="/images/play-icon-black.png"/>
                 <span>PLAY</span>
             </Playbutton>
             <Trailer>
-            <img src="/images/play-icon-white.png" alt=''/>
+            <img src="/images/play-icon-white.png"/>
             <span>TRAILER</span>
 
             </Trailer>
@@ -25,15 +25,15 @@ function Details() {
             </Addbutton>
 
             <Groupwatchbutton>
-                <img src="/images/group-icon.png"  alt=''/>
+                <img src="/images/group-icon.png"/>
             </Groupwatchbutton>
         </Controls>
 
         <Subtitle>
-        2018 • 7m • Family, Fantasy, Kids, Animation
+        2022 • Family, Fantasy, Kids, Animation
         </Subtitle>
         <Description>
-        A Chinese mom whos sad when her grown son leaves home gets another chance at motherhood when one of her dumplings springs to life. But she finds that nothing stays cute and small forever.
+        Doctor Strange in the Multiverse of Madness is a 2022 American superhero film based on Marvel Comics featuring the character Doctor Strange.
             </Description>
         </Container>
         
@@ -63,47 +63,15 @@ const Background = styled.div`
     }
 `
 
-const ImageTitle = styled.div`
-    height: 30vh;
-    min-height: 170px;
-    width: 35vw;
-    min-width: 200px;
-    margin-top: 60px;
-    img {
-        width: 100%;
-        height: 100%;
-        object-fit: contain;
-    }
-`
 
 const Controls = styled.div`
     display: flex;
     align-items: center;
 `
 
-const PlayButton = styled.button`
-    border-radius: 4px;
-    font-size: 15px;
-    padding: 0px 24px;
-    margin-right: 22px;
-    display: flex;
-    align-items: center;
-    height: 56px;
-    background: rgb (249, 249, 249);
-    border: none;
-    letter-spacing: 1.8px;
-    cursor: pointer;
-    &:hover {
-        background: rgb(198, 198, 198);
-    }
-`
 
-const TrailerButton = styled(PlayButton)`
-    background: rgba(0, 0, 0, 0.3);
-    border: 1px solid rgb(249, 249, 249);
-    color: rgb(249, 249, 249);
-    text-transform: uppercase;
-`
+
+
 
 const AddButton = styled.button`
     margin-right: 16px;
@@ -122,11 +90,11 @@ const AddButton = styled.button`
     }
 `
 
-const GroupWatchButton = styled(AddButton)`
+const Groupwatchbutton= styled(AddButton)`
     background: rgb(0, 0, 0);
 `
 
-const SubTitle = styled.div`
+const Subtitle = styled.div`
     color: rgb(249, 249, 249);
     font-size: 15px;
     min-height: 20px;
@@ -186,15 +154,9 @@ span{
 }
 
 `
-const Groupwatchbutton=styled(Addbutton)`
 
-`
 
-const Subtitle=styled.div`
-font-size:15px;
-min-height:20px;
-margin-top:26px;
-`
+
 const Description=styled.div`
 line-height:1.4;
 font-size:20px;
