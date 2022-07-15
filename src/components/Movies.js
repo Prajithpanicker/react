@@ -72,6 +72,10 @@ width:60%;
     display:none;
 }
 
+ @media (max-width: 768px){
+ width: 112%;
+ }
+ 
 `
 const Wrap=styled.div`
 overflow:hidden;
