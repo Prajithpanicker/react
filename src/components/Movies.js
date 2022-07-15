@@ -14,10 +14,9 @@ function Movies() {
     <Container >
         <h4>Recommended For You</h4>
         <Content  {...settings}>
-          <a href='/detail'><Wrap>
+          <Link to='/detail'><Wrap>
                 <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9948/1279948-v-cc9471178e40" alt=''/>
-                
-            </Wrap></a>
+            </Wrap></Link>
             <Wrap>
                 <img src="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1518/1161518-v-8d86a7ed8500" alt=''/>
             </Wrap>
