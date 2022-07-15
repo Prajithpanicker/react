@@ -103,4 +103,9 @@ img{
  &:hover{
     transform:scale(1.4);
 }
+@media (max-width: 768px){
+    &:hover{
+        transform:scale(1.2);
+       
+}
 `
