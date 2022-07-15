@@ -72,9 +72,9 @@ width:60%;
     display:none;
 }
 
- @media (max-width: 768px){
- width: 112%;
- }
+@media (max-width: 768px) {
+    width:165%;
+}
  
 `
 const Wrap=styled.div`
