@@ -36,6 +36,10 @@ margin-top: 30px;
   grid-gap: 25px;
   gap: 25px;
   grid-template-columns: repeat(5, minmax(0, 1fr));
+  
+  @media (max-width: 768px){
+  gap:3px;
+  }
 `;
 
 const Wrap = styled.div`
